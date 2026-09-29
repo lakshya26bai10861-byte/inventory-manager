@@ -1,0 +1,5 @@
+# Nothing extra needed!
+# Everything uses Python's built-in libraries:
+#   - tkinter  (GUI)
+#   - sqlite3  (database)
+#   - datetime (date handling)
